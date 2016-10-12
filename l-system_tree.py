@@ -1,6 +1,6 @@
 # Filename: l-system_tree.py
 # Author:   Benjamin N. Summerton (@def-pri-pub)
-# License:  See the file `./LICENSE`.
+# License:  BSD 3-Clause (read `./LICENSE` for details)
 #
 # This script is the logic for generating a Lindenmayer System tree.  It's
 # needs to be run inside of Blender for it to work.  When it's done genrating
