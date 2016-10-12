@@ -22,8 +22,8 @@ that you want and then press `Run Script`.  The base of the tree will where the
 3D cursor currently is.
 
 At the top of the script, there are some configuration varaibles that you can
-change to alter the tree that is generated.  Try turning `VARIATION_MODE`; it
-generates some more natural looking trees.
+change to alter the tree that is generated.  Try turning on `VARIATION_MODE`; it
+generates more natural looking trees.
 
 
 License
